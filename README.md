@@ -1,16 +1,11 @@
-# hangman-game
+# Hangman-game
 
-Hangman is a guessing game played by two or more persons.
+## Introduction
 
-
-The person should guess the word correctly what other person thinks in order to win.
-
-
-The person should guess the word letter by letter.
-
-
-
-->This game is build using basics of Python
+- Hangman is a guessing game played by two or more persons.
+- The person should guess the word correctly what other person thinks in order to win.
+- The person should guess the word letter by letter.
+- This game is build using basics of Python
 
 ## Screenshots of the Game:
 
@@ -28,13 +23,13 @@ The person should guess the word letter by letter.
 
 ### 3)end
 
-
 #### case1:
-
-winning
+- winning
 ![win](https://user-images.githubusercontent.com/89832451/210499959-e3e32bb1-adeb-4055-942b-6d3ff62b274b.png)
 
 #### case2:
 
-lossing
+-lossing
 ![lose](https://user-images.githubusercontent.com/89832451/210499999-9eaade41-ba9d-42f0-b2f7-72d29ba0b6eb.png)
+
+#### Thank You
